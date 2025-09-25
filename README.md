@@ -15,6 +15,7 @@
 
 <h2>📺 Certifications</h2>
 
+- [Microsoft Power BI Data Analyst](https://coursera.org/verify/professional-cert/Z290VBP0AZCV)
 - [Meta Data Analyst](https://coursera.org/verify/professional-cert/3VA0IM6XIRVA)
 - [Preparing Data for Analysis with Microsoft Excel](https://coursera.org/verify/7X80FZAHPGOH)
 - [Harnessing the Power of Data with Power BI](https://coursera.org/verify/SVUDI0WLRP45)
