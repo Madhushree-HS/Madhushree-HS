@@ -7,7 +7,7 @@
 
 - <b>Data|Power BI|Sql|ETL process|Data modeling|Data Cleaning|Dashboard</b>
   - [ Employee-Attendance-Tracking-and-Analysis-System_Power-BI](https://github.com/Madhushree-HS/Employee-Attendance-Tracking-and-Analysis-System_Power-BI)
-
+  - [Integrated-Sales-Supplier-Performance-Analysis-Power-BI ](https://github.com/Madhushree-HS/Integrated-Sales-Supplier-Performance-Analysis-Power-BI)
 
 <h2>📺 Certifications</h2>
 
