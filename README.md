@@ -6,7 +6,7 @@
   - [ Employee-Attendance-Tracking-and-Analysis-System_Power-BI](https://github.com/Madhushree-HS/Employee-Attendance-Tracking-and-Analysis-System_Power-BI)
   - [Integrated-Sales-Supplier-Performance-Analysis-Power-BI ](https://github.com/Madhushree-HS/Integrated-Sales-Supplier-Performance-Analysis-Power-BI)
  
-  - <b>Data|Tableau|Sql|Dashboard</b>
+- <b>Data|Tableau|Sql|Dashboard</b>
   - [ Sales Performance Analytics System](https://github.com/Madhushree-HS/Sales_Insight_Tableau_Dashboard)
 
 <h2>📺 Certifications</h2>
