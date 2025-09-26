@@ -6,7 +6,7 @@
   - [ Sales Performance Analytics System](https://github.com/Madhushree-HS/Sales_Insight_Tableau_Dashboard)
 
 - <b>Data|Power BI|Sql|ETL process|Data modeling|Data Cleaning|Dashboard</b>
-  - [ Employee Attendance Tracking and Analysis System](https://github.com/Madhushree-HS/Employee-Attendence-Tracking-and-Analysis-system_Power-BI)
+  - [ Employee-Attendance-Tracking-and-Analysis-System_Power-BI](https://github.com/Madhushree-HS/Employee-Attendance-Tracking-and-Analysis-System_Power-BI)
 
 
 <h2>📺 Certifications</h2>
