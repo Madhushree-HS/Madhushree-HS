@@ -1,6 +1,6 @@
 ## Hi This is Madhu 👋
 
-<h2>👨‍💻 Data Analyst Projects:</h2>   https://github.com/Madhushree-HS/Strategic-Insights-for-T20-Cricket-Analysis---Power-BI
+<h2>👨‍💻 Data Analyst Projects:</h2>   
 
 - <b>Data|Power BI|Sql|ETL process|Data modeling|Data Cleaning|Dashboard</b>
   - [Tesla-HR Analytics - Power-BI](https://github.com/Madhushree-HS/Tesla-HR-Analytics---Power-BI)
