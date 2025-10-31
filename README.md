@@ -5,7 +5,6 @@
 - <b>Data|Power BI|Sql|ETL process|Data modeling|Data Cleaning|Dashboard</b>
   - [Tesla-HR Analytics - Power-BI](https://github.com/Madhushree-HS/Tesla-HR-Analytics---Power-BI)
   - [Capstone sales and purchases Analysis-Power BI](https://github.com/Madhushree-HS/Capstone-sales-and-purchases-Analysis---Power-BI)
-  - [Strategic Insight for T20 Cricket Analysis - Power-BI](https://github.com/Madhushree-HS/Strategic-Insights-for-T20-Cricket-Analysis---Power-BI)
  
 - <b>Data|Tableau|Sql|Dashboard</b>
   - [Sales Performance Analytics System](https://github.com/Madhushree-HS/Sales_Insight_Tableau_Dashboard)
