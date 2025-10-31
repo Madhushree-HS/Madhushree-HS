@@ -3,8 +3,9 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>   
 
 - <b>Data|Power BI|Sql|ETL process|Data modeling|Data Cleaning|Dashboard</b>
-  - [Tesla-HR Analytics - Power-BI](https://github.com/Madhushree-HS/Tesla-HR-Analytics---Power-BI)
+  - [Tesla-HR Analytics - Power-BI](https://github.com/Madhushree-HS/Tesla-HR-Analytics---Power-BI)    
   - [Capstone sales and purchases Analysis-Power BI](https://github.com/Madhushree-HS/Capstone-sales-and-purchases-Analysis---Power-BI)
+  - [Inventory and Supply Chain Management Analysis - Power BI|Excel](https://github.com/Madhushree-HS/Inventory-Supply-Chain-Analysis---power-BI-Excel)
  
 - <b>Data|Tableau|Sql|Dashboard</b>
   - [Sales Performance Analytics System](https://github.com/Madhushree-HS/Sales_Insight_Tableau_Dashboard)
