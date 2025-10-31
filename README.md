@@ -8,7 +8,10 @@
   - [Strategic Insight for T20 Cricket Analysis - Power-BI](https://github.com/Madhushree-HS/Strategic-Insights-for-T20-Cricket-Analysis---Power-BI)
  
 - <b>Data|Tableau|Sql|Dashboard</b>
-  - [ Sales Performance Analytics System](https://github.com/Madhushree-HS/Sales_Insight_Tableau_Dashboard)
+  - [Sales Performance Analytics System](https://github.com/Madhushree-HS/Sales_Insight_Tableau_Dashboard)
+
+- <b>Data|Analytics|N8N|Supabase|Quadratic</b>
+  - [Supply chain data analytics - FMCG domain - Quadratic | N8N](https://github.com/Madhushree-HS/Supply-chain-data-analytics---FMCG-domain---Quadratic-N8N-) 
 
 <h2>📺 Certifications</h2>
 
